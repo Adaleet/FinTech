@@ -5,4 +5,4 @@ The repository includes a collection of tools, applications, and analyses design
 
 # Project overview
 
-The Fintech repository is dedicated to creating and showcasing projects that involve financial technology. Whether you're interested in algorithmic trading, cryptocurrency tools, personal finance management, or blockchain applications, this repository contains resources to help you get started and advance in these areas.
+This repository is dedicated to creating and showcasing projects that involve financial technology. Whether you're interested in algorithmic trading, cryptocurrency tools, personal finance management, or blockchain applications, this repository contains resources to help you get started and advance in these areas. Interested? In that case, star this repository and add your valuable contribution! :)
