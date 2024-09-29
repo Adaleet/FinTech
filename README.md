@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e6526a97-9d53-495a-a80e-32c01b1d05b7/Capture.png" alt="Your Image Description" />
-</div>
 
+
+![Capture](https://github.com/user-attachments/assets/c4b09e34-55cf-4b83-b632-ba820108f49a)
 
 # FinTech
 
