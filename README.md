@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e6526a97-9d53-495a-a80e-32c01b1d05b7/Capture.png" alt="Your Image Description" />
+</div>
+
+
 # FinTech
 
 This project aims to explore and implement various innovative financial technologies and solutions. 
